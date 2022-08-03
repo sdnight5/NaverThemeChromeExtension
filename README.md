@@ -1,0 +1,2 @@
+# NaverThemeChromeExtension
+Naver Theme
