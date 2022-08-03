@@ -1,0 +1,47 @@
+{
+    "GreenWindowBorderColor" : {
+        "c" : ".green_window { border-color: $d!important }",
+        "n" : "검색창 색",
+        "r" : "#19ce60"
+    },
+    "GreenWindowSearchBackgroundColor" : {
+        "c" : ".btn_submit { background-color: $d!important }",
+        "n" : "검색버튼 배경색",
+        "r" : "#19ce60"
+    },
+    "NavMenuColor" : {
+        "c" : ".nav { color : $d!important }",
+        "n" :"네이버아이템 색",
+        "r" : "#19ce60"
+    },
+    "NaverLoginBackGroundColor" : {
+        "c" : ".link_login { background-color : $d!important }",
+        "n" : "네이버로그인버튼 배경색",
+        "r" : "#19ce60"
+    },
+    "NaverLoginBorderColor" : {
+        "c" : ".link_login { border-color : $d!important }",
+        "n" : "네이버로그인버튼 보더색",
+        "r" : "#19ce60"
+    },
+    "HeaderBackGroundColor" : {
+        "c" : "#header { background-color: $d!important}",
+        "n" : "헤더 배경 색",
+        "r" : "#ffffff"
+    },
+    "SpecialBgBackGroundColor" : {
+        "c" : ".special_bg { background-color: $d!important }",
+        "n" : "스페셜BG 배경색",
+        "r" : "#ffffff"
+    },
+    "SearchBarBackGroundColor" : {
+        "c" : ".input_text { background-color: $d!important }",
+        "n" : "서치 바 배경색",
+        "r" : "#ffffff"
+    },
+    "ContainerBackgroundColor" : {
+        "c" : "#container { background-color: $d!important }",
+        "n" : "컨테이너 배경색",
+        "r" : "#ffffff"
+    }
+}
